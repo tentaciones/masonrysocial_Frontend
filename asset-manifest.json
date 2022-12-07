@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/masonrysocialmedia/static/css/main.7578dc83.css",
+    "main.js": "/masonrysocialmedia/static/js/main.2e145dc4.js",
+    "static/js/787.cda612ba.chunk.js": "/masonrysocialmedia/static/js/787.cda612ba.chunk.js",
+    "static/media/BgVideo.mp4": "/masonrysocialmedia/static/media/BgVideo.f758eefc9ea32c312130.mp4",
+    "index.html": "/masonrysocialmedia/index.html",
+    "main.7578dc83.css.map": "/masonrysocialmedia/static/css/main.7578dc83.css.map",
+    "main.2e145dc4.js.map": "/masonrysocialmedia/static/js/main.2e145dc4.js.map",
+    "787.cda612ba.chunk.js.map": "/masonrysocialmedia/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7578dc83.css",
+    "static/js/main.2e145dc4.js"
+  ]
+}
